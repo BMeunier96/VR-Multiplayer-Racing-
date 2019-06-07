@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.cargame3.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\unity projects\\car game 3\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "car game 3 [Testing]"
+        }
+      }
+    }
+  ]
+}
